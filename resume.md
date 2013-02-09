@@ -51,7 +51,7 @@ Languages
 Interests
 ---------
 
-*   Tablet app development, User eXperience, Team management,
+*   Tablet app development, UX, agile team management,
     e-learning, functional programming
 
 
