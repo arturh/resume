@@ -133,7 +133,7 @@ def html(lines, contact_lines, *args):
                 hash=hashlib.md5(line.lower().strip('<>')).hexdigest())
             break
     if gravatar is not None:
-        contact_lines.insert(0, "<img src='{}' />".format(gravatar))
+        pass #contact_lines.insert(0, "<img src='{}' />".format(gravatar))
 
     lines.insert(0, "<div id='container'><div id='contact'>%s</div>\n" %
                          ("<p>" + "</p><p>".join(contact_lines) + "</p>"))

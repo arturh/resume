@@ -7,10 +7,12 @@ Artur Honzawa
 Skills and Perspectives
 -----------------------
 
-I have work experience with Java, Javascript, Python, Ruby (on Rails) and Bash scripting.
-Just one project in Objective-C, but acquainted with iOS developement.
-Also looking forward to using more functional programming languages (Haskell, Scala or OCaml).
-Experienced refactoring legacy codebases.
+*   I have work experience with Java, Javascript, Python, Ruby (on Rails) and Bash scripting.
+Just one project in Objective-C, but acquainted with iOS developement. Experienced refactoring legacy codebases.
+
+*   Looking forward to using more functional programming languages (Haskell, Scala or OCaml).
+
+*   Interested in web technologies such as HTML5, CSS3 and new Javascript developments, also UX and interface design.
 
 
 
@@ -28,7 +30,7 @@ Relevant Work Experience
         and resposible for
         training new hires,
         iOS team tech assesment,
-        new API design
+        API design
         and
         customer communication
     -   First app developed for [Wuaki.tv](https://wuaki.tv/pages/android),
@@ -57,7 +59,7 @@ Higher Education
 Languages
 ---------
 
-Native Spanish and Catalan speaker, good command of English and elementary Japanese and German. Love learning new languages.
+*   Native Spanish and Catalan speaker, good command of English and elementary Japanese and German. Love learning new languages.
 
 Interests and achievements
 --------------------------
