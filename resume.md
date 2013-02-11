@@ -1,57 +1,74 @@
-Artur Honzawa
+Artur Honzawa 
 ===============
 
 • [arturh@gmail.com](mailto:arturh@gmail.com)
-• [http://github.com/arturh](http://github.com/arturh)
+• [+34 666 134 212](tel:+34666134212)
 
-Skills
-------
+Skills and Perspectives
+-----------------------
 
-*   Very experienced with Git, Python, Android development
+I have work experience with Java, Javascript, Python, Ruby (on Rails) and Bash scripting.
+Just one project in Objective-C, but acquainted with iOS developement.
+Also looking forward to using more functional programming languages (Haskell, Scala or OCaml).
+Experienced refactoring legacy codebases.
 
-*   Good at leading developer teams
 
-Work Experience
+
+Relevant Work Experience
 ---------------
 
-*   **Wondarlab SL**
+*   **[Wondarlab SL](http://www.wondarlab.com/)**
 
     Mobile Developer, March 2012 - present
 
-    -   Android tablet and smartphone apps
-    -   Git
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Started as only Android developer, further developing existing projects as well as starting new ones from scratch
+    -   Introduced Git use and workflows at the company
+    -   Currently,
+        lead Android developer
+        and resposible for
+        training new hires,
+        iOS team tech assesment,
+        new API design
+        and
+        customer communication
+    -   First app developed for [Wuaki.tv](https://wuaki.tv/pages/android),
+        a Spanish video-on-demand service
 
-*   **Barcelona Music & Audio Technologies Licensing**
+*   **[Barcelona Music & Audio Technologies](http://www.bmat.com/)**
 
     Software Engineer, April 2008 - June 2011
 
-    -   Ruby on Rails, Python, PostgreSQL, Lucene and Debian
-    -   Audio fingerprinting and Music recommendation
+    -   At first worked on the Ruby on Rails frontend for [Ella](http://www.bmat.com/products/ella/), an audio analysis, search and recommendation engine.
+    Afterwards migrated it to Python, to match the backend.
+    Data scraping, ingestion, analysis and indexing.
+    -   First implementation and deployment of [Vericast](http://www.bmat.com/products/vericast/), an audio broadcast capture and fingerprinting service
 
-Education
+Higher Education
 ---------
 
-*   **Universitat Oberta de Catalunya**
-    Master in Education and IT (In progress)
+*   **[Universitat Oberta de Catalunya](http://www.uoc.edu/portal/en/index.html)**
+    Master in Education and IT (in progress)
 
-*   **Universitat de Girona**
-    B.S. in Computer 
+*   **[Universitat de Girona](http://www.udg.edu)**
+    B.S. in Computer Science
 
     Colaborated with the Broadband Communications and Distributed Systems department
 
 Languages
 ---------
 
-* Spanish, Catalan: Native
-* English: C1
-* Japanese: A2
+Native Spanish and Catalan speaker, good command of English and elementary Japanese and German. Love learning new languages.
 
-Interests
----------
+Interests and achievements
+--------------------------
 
-*   Tablet app development, UX, agile team management,
-    e-learning, functional programming
+*   Co-Founder and organizer of _[Webcat](http://lanyrd.com/guides/webcat/past/)_,
+a monthly meetup of web professionals in Barcelona
 
+*   Not-so-recent code available at [http://github.com/arturh](http://github.com/arturh)
+
+*   Former
+    _[casteller](http://en.wikipedia.org/wiki/Castell)_,
+    [rugby prop](http://en.wikipedia.org/wiki/Rugby_union) and
+    [go player](http://en.wikipedia.org/wiki/Go_(game))
 
