@@ -1,5 +1,5 @@
 Artur Honzawa 
-===============
+=============
 
 • [arturh@gmail.com](mailto:arturh@gmail.com)
 • [+34 666 134 212](tel:+34666134212)
@@ -12,7 +12,7 @@ Just one project in Objective-C, but acquainted with iOS developement. Experienc
 
 *   Looking forward to using more functional programming languages (Haskell, Scala or OCaml).
 
-*   Interested in web technologies such as HTML5, CSS3 and new Javascript developments, also UX and interface design.
+*   Interested in UX, interface design and Web technologies such as HTML5, CSS3 and new Javascript developments.
 
 
 
@@ -23,17 +23,17 @@ Relevant Work Experience
 
     Mobile Developer, March 2012 - present
 
-    -   Started as only Android developer, further developing existing projects as well as starting new ones from scratch
-    -   Introduced Git use and workflows at the company
+    -   Started as only Android developer, further developing existing projects as well as starting new ones from scratch. Mostly tablet apps.
+    -   Introduced Git use and workflows in the company
     -   Currently,
         lead Android developer
-        and resposible for
-        training new hires,
+        and responsible for
+        new hires,
         iOS team tech assesment,
         API design
         and
         customer communication
-    -   First app developed for [Wuaki.tv](https://wuaki.tv/pages/android),
+    -   First app developed: [Wuaki.tv](https://wuaki.tv/pages/android),
         a Spanish video-on-demand service
 
 *   **[Barcelona Music & Audio Technologies](http://www.bmat.com/)**
@@ -54,7 +54,7 @@ Higher Education
 *   **[Universitat de Girona](http://www.udg.edu)**
     B.S. in Computer Science
 
-    Colaborated with the Broadband Communications and Distributed Systems department
+    Collaborated with the Broadband Communications and Distributed Systems department
 
 Languages
 ---------
